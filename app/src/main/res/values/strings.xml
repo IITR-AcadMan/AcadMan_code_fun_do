@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">AcadMan</string>
+    <string name="dummy_content">Welcome</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="Scheduel_Type">Scheduel Type</string>
+    <string-array name="Type">
+        <item>Current Schedule</item>
+        <item>Upcoming Schedule</item>
+        <item>Default Schedule</item>
+    </string-array>
+    <string name="Slot">Scheduel Type</string>
+    <string-array name="Slots">
+        <item>08AM-09AM</item>
+        <item>09AM-10AM</item>
+        <item>10AM-11AM</item>
+        <item>11AM-12PM</item>
+        <item>12PM-01PM</item>
+        <item>02PM-03PM</item>
+        <item>03PM-04PM</item>
+        <item>04PM-05PM</item>
+        <item>05PM-06PM</item>
+    </string-array>
+    <string name="Day">Day</string>
+    <string-array name="Day">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+    </string-array>
+</resources>
