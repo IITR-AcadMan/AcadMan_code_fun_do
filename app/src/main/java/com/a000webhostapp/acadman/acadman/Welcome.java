@@ -58,6 +58,6 @@ progress = (ProgressBar) findViewById(R.id.progressBar);
         {
             Intent failed=new Intent(Welcome.this,Dashboard.class);
             startActivity(failed);
-            Toast.makeText(this, "kaishusahu", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "kaishu101sahu", Toast.LENGTH_SHORT).show();
         }
     }}
